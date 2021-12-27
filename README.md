@@ -3,5 +3,6 @@
 
 
 * git clone https://github.com/BrebesBlackXploit/wpbf
+* cd wpbf
 * bash t.sh
 
